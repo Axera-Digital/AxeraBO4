@@ -12,4 +12,4 @@ This repository features an external trainer base for Call of Duty: Black Ops 4 
 </details>
 
 ## NOTE
-[ COMING SOON ]
+* Compile in Release x64 / MultiByte Char Set / C++ Language Version ( Preview - Features from the Latest C++ Working Draft (/std:c++latest) )
