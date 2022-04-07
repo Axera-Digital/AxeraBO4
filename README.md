@@ -1,2 +1,11 @@
-# AxeraBO4
-Axera.Digital's BO4 (T8) External Zombies Tool
+# [ Axera BO4 Zombie Tool ]
+Generate Random Strings in Style
+
+## Features
+[ COMING SOON ]
+
+## Preview
+[ COMING SOON ]
+
+## NOTE
+[ COMING SOON ]
